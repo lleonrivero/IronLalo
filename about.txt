@@ -1,1 +1,3 @@
-This is Lalo, and I broke a glass this morning!
+This is Lalo, and I broke a glass this morning! 
+
+I'm practicing with Git.
